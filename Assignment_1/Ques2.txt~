@@ -1,0 +1,20 @@
+error_test_1 -> 4.91888
+error_test_2 -> 4.918883
+error_test_3 -> 4.918909
+error_test_4 -> 4.919164
+error_test_5 -> 4.921686
+error_test_6 -> 4.944707
+error_test_7 -> 5.127244
+error_test_8 -> 6.048299
+error_test_9 -> 7.33901
+error_train_1 -> 4.989752
+error_train_2 -> 4.989753
+error_train_3 -> 4.989765
+error_train_4 -> 4.989883
+error_train_5 -> 4.991056
+error_train_6 -> 5.002371
+error_train_7 -> 5.102569
+error_train_8 -> 5.705568
+error_train_9 -> 6.806715
+
+
